@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Iced Matcha Glow",
+    "prepTime": "8 min",
+    "description": "A bright, refreshing matcha that feels polished yet easy.",
+    "flavorProfile": "Iced Matcha",
+    "ingredients": ["2 tsp ceremonial matcha", "2 oz warm water", "4 oz oat milk", "1 tsp honey", "ice"],
+    "instructions": ["Whisk matcha with warm water until silky.", "Shake with oat milk and honey.", "Pour over ice and finish with a citrus twist."],
+    "designNotes": ["Use a pale green palette with cream undertones.", "Pair with soft bronze details and a clean glass silhouette."],
+    "image": "https://images.unsplash.com/photo-1499638673689-79a0b5115d87?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "title": "Cozy Cinnamon Latte",
+    "prepTime": "10 min",
+    "description": "A velvety espresso drink with a sweet spice glow.",
+    "flavorProfile": "Cozy Latte",
+    "ingredients": ["1 shot espresso", "6 oz steamed milk", "1 pinch cinnamon", "1 tsp brown sugar"],
+    "instructions": ["Brew espresso and stir in brown sugar.", "Steam milk until glossy.", "Pour over espresso and dust with cinnamon."],
+    "designNotes": ["Frame it in warm espresso and ochre accents.", "Use rounded ceramic props and a wood-toned backdrop."],
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "title": "Berry Garden Spritz",
+    "prepTime": "6 min",
+    "description": "A fruity, herbaceous refresher with a garden glow.",
+    "flavorProfile": "Fruity",
+    "ingredients": ["3 oz sparkling water", "2 oz berry syrup", "2 mint leaves", "fresh berries"],
+    "instructions": ["Combine syrup and mint in a glass.", "Top with sparkling water.", "Add berries and serve chilled."],
+    "designNotes": ["Lean into berry reds and green herbs for a fresh palette.", "Use a bright, airy layout with soft shadows."],
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1000&q=80"
+  }
+]
